@@ -28,6 +28,8 @@ When I'm not coding, you can usually find me crafting a witty Letterboxd review,
 - 📫 **How to reach me:** [liridoron@gmail.com](mailto:liridoron@gmail.com)
 - 🎶 **My playlists!:** [Liri Doron](https://music.apple.com/profile/lirid0ron)
 
+-----
+
 ### 🛠️ My Tech Stack
 
 A look at the languages, frameworks, and tools I love to work with.
@@ -44,13 +46,15 @@ A look at the languages, frameworks, and tools I love to work with.
 * **AI/ML:** Keras, Pandas, NumPy, Matplotlib, Seaborn
  
 * **Frameworks & Tools:** 
-<div align="center">
+<div align="Left">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" alt="Jupyter Notebook" title="Jupyter Notebook"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/electron.png" alt="Electron" title="Electron"/></code>
 </div>
 
 * **Secret Ingredient:** Patience (essential for both debugging and baking 🍞)
+
+-----
 
 ### 🚀 Key Experiences
 
@@ -63,6 +67,8 @@ A look at the languages, frameworks, and tools I love to work with.
 - **Bachelor of Science, Computer Science** - Stevens Institute of Technology (Expected Dec. 2028)
 - **Certificate in Machine Learning** - Cornell University, via Break Through Tech (Expected Aug. 2025)
 
+-----
+
 ### 💻 My Projects
 
 Here are a few things I've built. Check out my pinned repositories for more!
@@ -73,6 +79,8 @@ Here are a few things I've built. Check out my pinned repositories for more!
   - *(Coming Fall 2025!)*
 - 맵 **Oregon Road '83 Map Editor**
   - A full-stack developer tool built with Electron that allows game designers to visually create and manage different cities and locations in the game.
+
+-----
 
 ### 🪷 Let's Connect!
 
