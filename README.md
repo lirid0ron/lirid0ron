@@ -32,7 +32,11 @@ When I'm not coding, you can usually find me crafting a witty Letterboxd review,
 
 A look at the languages, frameworks, and tools I love to work with.
 
-- **Languages:** ![Python](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png), ![Java](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png), ![JavaScript](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png), ![HTML](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png), ![CSS](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png)
+- **Languages:** <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
+<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
+<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
+<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
+<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
 - **AI/ML:** Keras, Pandas, NumPy, Matplotlib, Seaborn
 - **Frameworks & Tools:** ![Electron](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/electron.png), ![Git](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png), ![Jupyter Notebook](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png)
 - **Secret Ingredient:** Patience (essential for both debugging and baking 🍞)
