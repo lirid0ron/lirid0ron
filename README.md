@@ -26,7 +26,8 @@ When I'm not coding, you can usually find me crafting a witty Letterboxd review,
 
 - 🌐 **My LinkedIn Profile:** [linkedin.com/in/your-profile-url](https://www.linkedin.com/in/your-profile-url)
 - 📫 **How to reach me:** [liridoron@gmail.com](mailto:liridoron@gmail.com)
-- 🎶 **My playlists!:** [Liri Doron](https://music.apple.com/profile/lirid0ron)
+- 👾 **LeetCode:** [lirid0ron](https://leetcode.com/u/lirid0ron/)
+- 🎶 **My playlists!:** [Apple Music](https://music.apple.com/profile/lirid0ron)
 
 -----
 
