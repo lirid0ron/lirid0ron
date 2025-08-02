@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💫🍓🧚‍♀️ Liri Doron 🧚‍♀️🍓💫
+# Liri Doron 🧚‍♀️🍓💫
 ### AI/ML Fellow & Aspiring Game Developer
 </div>
 
@@ -85,3 +85,7 @@ Here are a few things I've built. Check out my pinned repositories for more!
 ### 🪷 Let's Connect!
 
 I'm always happy to connect with fellow developers, gamers, and creators. Feel free to reach out if you want to collaborate, chat about AI, or swap banana bread recipes!
+
+-----
+
+[![](https://visitcount.itsvg.in/api?id=lirid0ron&icon=7&color=2)](https://visitcount.itsvg.in)
