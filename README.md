@@ -24,7 +24,7 @@ Hi there! I'm Liri 👋, a Computer Science student at Stevens Institute of Tech
 
 When I'm not coding, you can usually find me crafting a witty Letterboxd review, curating an oddly specific playlist, or perfecting my banana bread recipe. (Hopefully one day I'll manage to successfully raise a sourdough starter.)
 
-- 🌐 **My LinkedIn Profile:** [linkedin.com/in/your-profile-url](https://www.linkedin.com/in/your-profile-url)
+- 🌐 **My LinkedIn Profile:** [linkedin.com/in/liri-doron](https://www.linkedin.com/in/liri-doron)
 - 📫 **How to reach me:** [liridoron@gmail.com](mailto:liridoron@gmail.com)
 - 👾 **LeetCode:** [lirid0ron](https://leetcode.com/u/lirid0ron/)
 - 🎶 **My playlists!:** [Apple Music](https://music.apple.com/profile/lirid0ron)
