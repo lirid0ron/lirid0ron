@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="assets/header.svg" alt="Liri Doron — sunflower yellow, strawberries, and a little sunshine" width="100%">
-### CS @ Stevens '28 · AI agents, developer tools & game development
+<h3>CS @ Stevens '28 · AI agents, developer tools &amp; game development</h3>
 
 <a href="https://www.linkedin.com/in/liri-doron"><img src="assets/linkedin.svg" alt="LinkedIn" width="132" height="38"></a> <a href="mailto:liridoron@gmail.com"><img src="assets/email.svg" alt="Say hi by email" width="132" height="38"></a> <a href="https://music.apple.com/profile/lirid0ron"><img src="assets/playlists.svg" alt="My playlists" width="132" height="38"></a>
 
