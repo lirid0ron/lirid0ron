@@ -1,93 +1,79 @@
 <div align="center">
 
 # Liri Doron 🧚‍♀️🍓💫
-### AI Engineer & SWE · CS @ Stevens '28
+### CS @ Stevens '28 · AI agents, developer tools & game development
 
-Junior in Computer Science · Former Nasdaq Quality Assurance Co-op · Break Through Tech AI alum
-
-[LinkedIn](https://www.linkedin.com/in/liri-doron) · [Email](mailto:liridoron@gmail.com) · [LeetCode](https://leetcode.com/u/lirid0ron/)
+[LinkedIn](https://www.linkedin.com/in/liri-doron) · [Email](mailto:liridoron@gmail.com) · [My playlists](https://music.apple.com/profile/lirid0ron)
 
 </div>
 
-Hi there! I'm Liri 👋. I build AI agents, machine learning models, and developer tools. At Nasdaq, I worked on agents that use tools and diagnose CI/CD failures. For Oregon Road '83, I've built visual editors that help a team of 10+ developers create game content. I care about making things useful and checking that they actually work.
+### hi, i'm liri! 👋
 
-I'm a junior at Stevens Institute of Technology, graduating in **May 2028**, and a **Break Through Tech AI program alum**. I'm especially interested in agentic AI, developer tooling, and game development.
+I'm a junior studying Computer Science at Stevens, graduating in **May 2028**. When I was little, I thought building a website was the only way to make an impact on the world. I've since gotten into AI agents, machine learning, and building tools for game developers. There's a lot I want to make.
+
+I like figuring things out, especially when a project gives me a reason to learn something new. I'm interested in AI that can actually do useful work, and I care about checking its answers. My time at Nasdaq gave me plenty of practice with both.
+
+Away from my laptop, you can find me curating an oddly specific playlist, writing a Letterboxd review, or making banana bread. I love Radiohead and *La La Land*, and I play Roblox with my sisters. Yes, I'm a *Dress to Impress* veteran. 🍓
 
 ---
 
-### 🚀 Experience
+### 💻 A few things I've been working on
 
-**Nasdaq | Chi-X Canada · Quality Assurance Co-op**  
-*January–July 2026 · AI agents & developer tooling*
+**AI agents at Nasdaq**  
+*Quality Assurance Co-op · January–July 2026*
 
-- Built tool-using AI agents for knowledge retrieval, test generation, and log analysis, including an agent that diagnoses CI/CD failures.
-- Wrote 8+ automated test scripts and merged 6 into the production CI/CD codebase through peer review.
-- Ran 6 rounds of controlled LLM benchmarking across 12 agent configurations, evaluating accuracy, consistency, and integration cost.
-- Connected agents to IDE workflows through MCP, authored reusable agent skills and AGENTS.md configurations, and trained 6+ engineers.
+I built tool-using agents for a QA team, including an agent that diagnoses CI/CD failures. I also wrote 8+ automated test scripts, with 6 merged into the production codebase, and ran 6 rounds of LLM benchmarking across 12 agent configurations. Part of the job was helping other engineers use these tools: I trained 6+ engineers and put together reusable agent skills and MCP workflows.
 
-**Stevens Pinnacle Scholars · Undergraduate Software Developer**  
-*June–August 2025; July–August 2026 · Oregon Road '83*
+**Developer tools for Oregon Road '83**  
+*Undergraduate Software Developer · Stevens Pinnacle Scholars · Summers 2025 & 2026*
 
-- Built Electron/Node.js Map Editor and City Editor tools used by 10+ developers to create and edit game locations.
-- Developed a three-panel City Editor with a Phaser canvas, point-of-interest editing, and a property inspector.
-- Separated editor state from UI rendering and preserved unknown JSON properties through round-trip editing to prevent data loss as the game schema evolves.
+I get to help make a game! I've built Map Editor and City Editor tools with Electron, Node.js, and Phaser, used by **10+ developers** to work on game locations without hand-editing JSON. The City Editor has an interactive map and a property inspector. I also worked on the less visible details, like preserving unfamiliar JSON fields so editing a city doesn't accidentally erase its data.
 
-**Break Through Tech · AI/Machine Learning Fellow**  
-*May 2025–May 2026*
+**Learning and building with Break Through Tech**  
+*AI/Machine Learning Fellow · May 2025–May 2026*
 
-- Completed the year-long AI/ML program and Cornell's Machine Learning Foundations curriculum.
-- Collaborated on an **Accenture-sponsored AI Studio project** focused on NLP misinformation classification. Contributed model selection, training, project coordination, and the final presentation.
-- Audited data leakage and helped shift the team's approach from source-name artifacts toward behavioral feature engineering.
+I completed Cornell's Machine Learning Foundations curriculum and worked with a seven-person team on an **Accenture-sponsored AI Studio project**. Our project focused on misinformation classification, and my work included model selection, training, project coordination, and presenting our results. More on that below!
 
-**CodeAdvantage · Coding Instructor**  
-*February 2025–present*
+**Teaching kids to code**  
+*CodeAdvantage · February 2025–present*
 
-- Teach programming and computational thinking to second through fifth graders through Minecraft Code and ScratchJr projects.
-- Previously designed and taught a K–5 coding curriculum at Korean Community Services in summer 2025.
+I teach second through fifth graders through Minecraft Code and ScratchJr projects. I've also designed and taught a K–5 coding curriculum at Korean Community Services. Explaining a programming concept to a kid is a pretty good way to find out how well you understand it yourself.
 
-### 💻 Selected Projects
+### 🔎 Projects I'd love to talk about
 
-**[NLP Misinformation Classification](https://github.com/lirid0ron/Fake-News-Classification-BTT)**  
+**[Can a model tell whether a news article is trustworthy?](https://github.com/lirid0ron/Fake-News-Classification-BTT)**  
 *Python · BERT · TensorFlow/Keras · NLTK · TextBlob*
 
-A seven-person Accenture-sponsored AI Studio project using **96,000+ news articles**. Fine-tuned BERT and developed a stacked bidirectional LSTM with GloVe embeddings. My data-leakage audit exposed source-name artifacts and a date-parsing leak, helping redirect feature engineering. Co-deployed a dashboard for article credibility scores.
+Our AI Studio team worked with **96,000+ news articles**, fine-tuned BERT, and developed a stacked bidirectional LSTM with GloVe embeddings. One part I'm especially proud of is my data-leakage audit: I found source-name artifacts and a date-parsing leak that were giving the models shortcuts. That helped us rethink our features. We also co-deployed a dashboard for article credibility scores.
 
-**[NYC Airbnb Nightly Price Estimation](https://github.com/lirid0ron/airbnbPriceEstimator)**  
+**[What goes into an NYC Airbnb's nightly price?](https://github.com/lirid0ron/airbnbPriceEstimator)**  
 *Python · Scikit-learn · Pandas · NumPy*
 
-Regression over **28,000+ listings**, with amenities feature engineering, a log-transformed target, and comparisons of Ridge and Random Forest models. The tuned Random Forest achieved **R² 0.526** and **MAE $51.17** on the test set.
+For my final ML Foundations project, I worked with **28,000+ listings** and compared Ridge and Random Forest models. There was a lot of cleaning and feature engineering involved, including turning amenities into usable features. The tuned Random Forest reached **R² 0.526** and **MAE $51.17** on the test set.
 
-**Little Duck CPU & Two-Pass Assembler**  
+**Little Duck CPU & Two-Pass Assembler 🦆**  
 *Python · Logisim-Evolution · Partner project*
 
-Designed a custom **16-bit ISA**, datapath, control unit, register file, and ALU. Built a two-pass Python assembler with symbol-table resolution for forward branches and separate instruction and data memory segments.
+My partner and I designed a custom **16-bit CPU**, including its instruction set, datapath, control unit, register file, and ALU. I wrote a two-pass Python assembler to resolve labels and forward branches. This one gave me a much better understanding of what happens underneath the code I usually write.
 
-**Oregon Road '83 Developer Tools**  
-*Electron · Node.js · JavaScript · HTML5 Canvas · Phaser*
-
-Visual Map Editor and City Editor tools for a faculty-led game development project. The editors connect interactive maps with structured game data so designers can work without hand-editing JSON.
-
-### 🛠️ My Tech Stack
+### 🛠️ What I work with
 
 - **Languages:** Python, JavaScript, Java, HTML/CSS, Bash
-- **AI & agents:** MCP, tool use/function calling, prompt and context engineering, LLM evaluation, output validation, reusable agent skills
-- **ML & data:** Scikit-learn, TensorFlow, Keras, Hugging Face Transformers, BERT, Bi-LSTM, NLTK, TextBlob, Pandas, NumPy, Matplotlib, Seaborn
+- **AI & ML:** MCP, tool-using agents, prompt/context engineering, LLM evaluation, Scikit-learn, TensorFlow/Keras, Hugging Face Transformers, NLTK, TextBlob
+- **Data:** Pandas, NumPy, Matplotlib, Seaborn
 - **Developer tools & systems:** Electron, Node.js, Phaser, Git, GitHub, GitLab CI/CD, Jupyter, Logisim-Evolution
-- **Secret ingredient:** Patience, essential for both debugging and baking 🍞
 
-### 🎓 Education & Certifications
+### 🎓 The school part
 
-- **B.S. Computer Science, Stevens Institute of Technology** · Expected **May 2028** · GPA **3.56/4.0**
+- **B.S. Computer Science, Stevens Institute of Technology** · Expected **May 2028**
 - Pinnacle Scholars Honors Program · Dean's List · Upsilon Pi Epsilon
-- **Machine Learning Foundations**, Cornell University via eCornell · **July 2025**
-- **Break Through Tech AI Program**, Certificate of Completion · **May 2026**
+- **Machine Learning Foundations**, Cornell University via eCornell · July 2025
+- **Break Through Tech AI Program**, Certificate of Completion · May 2026
 
-### 💗 About Me
+### 💗 A little more about me
 
-When I'm not coding, you can usually find me crafting a Letterboxd review, curating an oddly specific playlist, or perfecting my banana bread recipe. I love Radiohead, *La La Land*, and playing Roblox with my sisters. I'm also a coding instructor and Phi Sigma Sigma's fundraising chair, where I organized a campaign that raised **$1,000+** for community programming.
+I'm Phi Sigma Sigma's fundraising chair, and I organized a campaign that raised **$1,000+** for community programming. I like work where I get to make something with other people, whether that's a tool, a lesson, or an event.
 
-### 🪷 Let's Connect!
+I'm always happy to meet fellow developers, gamers, and people with strong opinions about music or movies. Send me a project you're excited about, a playlist, or your banana bread recipe. I'd love to hear from you!
 
-I'm happy to connect with fellow developers, gamers, and creators. Reach out to talk about AI agents, developer tools, game development, or banana bread!
-
-[LinkedIn](https://www.linkedin.com/in/liri-doron) · [Email](mailto:liridoron@gmail.com) · [My playlists](https://music.apple.com/profile/lirid0ron)
+[Let's connect on LinkedIn](https://www.linkedin.com/in/liri-doron) · [Say hi by email](mailto:liridoron@gmail.com) · [LeetCode](https://leetcode.com/u/lirid0ron/)
