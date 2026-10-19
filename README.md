@@ -1,11 +1,13 @@
 <div align="center">
 
-# Liri Doron 🧚‍♀️🍓💫
+<img src="assets/header.svg" alt="Liri Doron — sunflower yellow, strawberries, and a little sunshine" width="100%">
 ### CS @ Stevens '28 · AI agents, developer tools & game development
 
-[LinkedIn](https://www.linkedin.com/in/liri-doron) · [Email](mailto:liridoron@gmail.com) · [My playlists](https://music.apple.com/profile/lirid0ron)
+<a href="https://www.linkedin.com/in/liri-doron"><img src="assets/linkedin.svg" alt="LinkedIn" width="132" height="38"></a> <a href="mailto:liridoron@gmail.com"><img src="assets/email.svg" alt="Say hi by email" width="132" height="38"></a> <a href="https://music.apple.com/profile/lirid0ron"><img src="assets/playlists.svg" alt="My playlists" width="132" height="38"></a>
 
 </div>
+
+<p align="center"><a href="#-what-ive-been-putting-that-energy-into">💻 experience</a> &nbsp;·&nbsp; <a href="#-a-few-projects-id-love-to-tell-you-about">🔎 projects</a> &nbsp;·&nbsp; <a href="#-say-hi">🍓 say hi</a></p>
 
 ### hi, i'm liri! 👋
 
@@ -21,12 +23,22 @@ Outside of CS, I'm usually making a playlist, writing a Letterboxd review, or ba
 
 ### 💻 What I've been putting that energy into
 
+<sub>Click a chapter to read more ↓</sub>
+
+<details>
+<summary><b>🤖 Nasdaq · AI agents & developer tooling</b></summary>
+
 **AI agents at Nasdaq**  
 *Quality Assurance Co-op · January–July 2026*
 
 I built tool-using agents for a QA team, including an agent that diagnoses CI/CD failures. I worked with the engineers who would use them, asked about the problems they were running into, and prototyped with them before committing to a build.
 
 I wrote **8+ automated test scripts**, with **6 merged into the production codebase**, and ran **6 rounds of LLM benchmarking across 12 agent configurations**. I also trained **6+ engineers** and created reusable agent skills and MCP workflows. This work made me care a lot about verification: an answer that sounds convincing still needs to hold up when you check it.
+
+</details>
+
+<details>
+<summary><b>🗺️ Oregon Road '83 · tools for game developers</b></summary>
 
 **Developer tools for Oregon Road '83**  
 *Undergraduate Software Developer · Stevens Pinnacle Scholars · Summers 2025 & 2026*
@@ -35,15 +47,27 @@ I spent two summers building tools for a faculty-led game project, returning in 
 
 I like that this work puts me close to the people using what I build. It also gave me plenty to figure out, from an interactive map and property inspector to preserving unfamiliar JSON fields so editing a city doesn't accidentally erase its data.
 
+</details>
+
+<details>
+<summary><b>🌱 Break Through Tech · AI/ML fellowship</b></summary>
+
 **Learning and building with Break Through Tech**  
 *AI/Machine Learning Fellow · May 2025–May 2026*
 
 I completed Cornell's Machine Learning Foundations curriculum and worked with a seven-person team on an **Accenture-sponsored AI Studio project**. My work included model selection, training, project coordination, and presenting our results. Our misinformation classification project also gave me a reason to question what a model was actually learning, which became one of the most interesting parts of the work.
 
+</details>
+
+<details>
+<summary><b>💛 Teaching kids to code</b></summary>
+
 **Teaching kids to code**  
 *CodeAdvantage · February 2025–present*
 
 I teach second through fifth graders through Minecraft Code and ScratchJr projects. I've also designed and taught a K–5 coding curriculum at Korean Community Services. I like helping someone get comfortable with something that felt unfamiliar to them. Teaching keeps me thinking about how to meet people where they are.
+
+</details>
 
 ### 🔎 A few projects I'd love to tell you about
 
