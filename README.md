@@ -15,7 +15,7 @@ I get excited about projects that stretch what I already know how to do. I'll as
 
 I also really like people! I like getting to know who I'm building for, figuring things out with a team, and making technical ideas easier to understand. I've helped engineers get started with AI agents and taught second through fifth graders to code. Both have made me more thoughtful about how I explain things and how I listen.
 
-Outside of CS, I have strong feelings about Radiohead and *La La Land*, an oddly specific playlist for almost anything, and a banana bread recipe I'm still perfecting. I'm always happy to hear a movie recommendation. 🍓
+Outside of CS, I'm usually making a playlist, writing a Letterboxd review, or baking banana bread. I love Radiohead and *La La Land*, and I'm always looking for something new to watch or listen to. 🍓
 
 ---
 
