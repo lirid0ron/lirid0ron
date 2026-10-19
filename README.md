@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Liri Doron — sunflower yellow, strawberries, and a little sunshine" width="100%">
-<h3>CS @ Stevens '28 · AI agents, developer tools &amp; game development</h3>
+<img src="assets/header.svg" alt="Liri Doron, with strawberries, lilies, tulips, and orchids on yellow gingham" width="100%">
+<p><i>computer science @ stevens '28</i></p>
 
 <a href="https://www.linkedin.com/in/liri-doron"><img src="assets/linkedin.svg" alt="LinkedIn" width="132" height="38"></a> <a href="mailto:liridoron@gmail.com"><img src="assets/email.svg" alt="Say hi by email" width="132" height="38"></a> <a href="https://music.apple.com/profile/lirid0ron"><img src="assets/playlists.svg" alt="My playlists" width="132" height="38"></a>
 
 </div>
 
-<p align="center"><a href="#-what-ive-been-putting-that-energy-into">💻 experience</a> &nbsp;·&nbsp; <a href="#-a-few-projects-id-love-to-tell-you-about">🔎 projects</a> &nbsp;·&nbsp; <a href="#-say-hi">🍓 say hi</a></p>
+<p align="center"><a href="#a-few-things-ive-worked-on">work</a> &nbsp;/&nbsp; <a href="#some-projects">projects</a> &nbsp;/&nbsp; <a href="#say-hi">say hi</a></p>
 
-### hi, i'm liri! 👋
+### hi, i'm liri! 🍓
 
-I'm a junior studying Computer Science at Stevens, graduating in **May 2028**. When I was little, I thought building a website was the only way to make an impact on the world. I loved the idea that I could learn how to make something and put it out there for other people to use. I still have a lot of that excitement.
+I'm a junior studying Computer Science at Stevens, graduating in May 2028. When I was little, I thought building a website was the only way to make an impact on the world. I loved the idea that I could learn how to make something and put it out there for other people to use. I still have a lot of that excitement.
 
 I get excited about projects that stretch what I already know how to do. I'll ask questions, get my hands on the code, and keep working until I understand what's going on. That's taken me from building AI agents at Nasdaq to making tools for game developers and designing a CPU with a partner. I want to keep taking on work that asks more of me, and I care a lot about doing it well.
 
@@ -19,91 +19,85 @@ I also really like people! I like getting to know who I'm building for, figuring
 
 Outside of CS, I'm usually making a playlist, writing a Letterboxd review, or baking banana bread. I love Radiohead and *La La Land*, and I'm always looking for something new to watch or listen to. 🍓
 
----
 
-### 💻 What I've been putting that energy into
-
-<sub>Click a chapter to read more ↓</sub>
+### a few things i've worked on
 
 <details>
-<summary><b>🤖 Nasdaq · AI agents & developer tooling</b></summary>
+<summary>Nasdaq</summary>
 
-**AI agents at Nasdaq**  
 *Quality Assurance Co-op · January–July 2026*
 
 I built tool-using agents for a QA team, including an agent that diagnoses CI/CD failures. I worked with the engineers who would use them, asked about the problems they were running into, and prototyped with them before committing to a build.
 
-I wrote **8+ automated test scripts**, with **6 merged into the production codebase**, and ran **6 rounds of LLM benchmarking across 12 agent configurations**. I also trained **6+ engineers** and created reusable agent skills and MCP workflows. This work made me care a lot about verification: an answer that sounds convincing still needs to hold up when you check it.
+I wrote 8+ automated test scripts, with 6 merged into the production codebase, and ran 6 rounds of LLM benchmarking across 12 agent configurations. I also trained 6+ engineers and created reusable agent skills and MCP workflows. This work made me care a lot about verification: an answer that sounds convincing still needs to hold up when you check it.
 
 </details>
 
 <details>
-<summary><b>🗺️ Oregon Road '83 · tools for game developers</b></summary>
+<summary>Oregon Road '83</summary>
 
-**Developer tools for Oregon Road '83**  
 *Undergraduate Software Developer · Stevens Pinnacle Scholars · Summers 2025 & 2026*
 
-I spent two summers building tools for a faculty-led game project, returning in 2026 to work on the City Editor. My Map Editor and City Editor tools use Electron, Node.js, and Phaser and help **10+ developers** create game locations without hand-editing JSON.
+I spent two summers building tools for a faculty-led game project, returning in 2026 to work on the City Editor. My Map Editor and City Editor tools use Electron, Node.js, and Phaser and help 10+ developers create game locations without hand-editing JSON.
 
 I like that this work puts me close to the people using what I build. It also gave me plenty to figure out, from an interactive map and property inspector to preserving unfamiliar JSON fields so editing a city doesn't accidentally erase its data.
 
 </details>
 
 <details>
-<summary><b>🌱 Break Through Tech · AI/ML fellowship</b></summary>
+<summary>Break Through Tech</summary>
 
-**Learning and building with Break Through Tech**  
 *AI/Machine Learning Fellow · May 2025–May 2026*
 
-I completed Cornell's Machine Learning Foundations curriculum and worked with a seven-person team on an **Accenture-sponsored AI Studio project**. My work included model selection, training, project coordination, and presenting our results. Our misinformation classification project also gave me a reason to question what a model was actually learning, which became one of the most interesting parts of the work.
+I completed Cornell's Machine Learning Foundations curriculum and worked with a seven-person team on an Accenture-sponsored AI Studio project. My work included model selection, training, project coordination, and presenting our results. Our misinformation classification project also gave me a reason to question what a model was actually learning, which became one of the most interesting parts of the work.
 
 </details>
 
 <details>
-<summary><b>💛 Teaching kids to code</b></summary>
+<summary>teaching kids to code</summary>
 
-**Teaching kids to code**  
 *CodeAdvantage · February 2025–present*
 
 I teach second through fifth graders through Minecraft Code and ScratchJr projects. I've also designed and taught a K–5 coding curriculum at Korean Community Services. I like helping someone get comfortable with something that felt unfamiliar to them. Teaching keeps me thinking about how to meet people where they are.
 
 </details>
 
-### 🔎 A few projects I'd love to tell you about
+### some projects
 
-**[NLP misinformation classification](https://github.com/lirid0ron/Fake-News-Classification-BTT)**  
+[NLP misinformation classification](https://github.com/lirid0ron/Fake-News-Classification-BTT)  
 *Python · BERT · TensorFlow/Keras · NLTK · TextBlob*
 
-Our AI Studio team worked with **96,000+ news articles**, fine-tuned BERT, and developed a stacked bidirectional LSTM with GloVe embeddings. One part I'm especially proud of is my data-leakage audit: I found source-name artifacts and a date-parsing leak that were giving the models shortcuts. That helped us rethink our features. We also co-deployed a dashboard for article credibility scores.
+Our AI Studio team worked with 96,000+ news articles, fine-tuned BERT, and developed a stacked bidirectional LSTM with GloVe embeddings. One part I'm especially proud of is my data-leakage audit: I found source-name artifacts and a date-parsing leak that were giving the models shortcuts. That helped us rethink our features. We also co-deployed a dashboard for article credibility scores.
 
-**[NYC Airbnb nightly price estimation](https://github.com/lirid0ron/airbnbPriceEstimator)**  
+[NYC Airbnb nightly price estimation](https://github.com/lirid0ron/airbnbPriceEstimator)  
 *Python · Scikit-learn · Pandas · NumPy*
 
-For my final ML Foundations project, I worked with **28,000+ listings** and compared Ridge and Random Forest models. There was a lot of cleaning and feature engineering involved, including turning amenities into usable features. The tuned Random Forest reached **R² 0.526** and **MAE $51.17** on the test set.
+For my final ML Foundations project, I worked with 28,000+ listings and compared Ridge and Random Forest models. There was a lot of cleaning and feature engineering involved, including turning amenities into usable features. The tuned Random Forest reached R² 0.526 and MAE $51.17 on the test set.
 
-**Little Duck CPU & Two-Pass Assembler 🦆**  
+Little Duck CPU & Two-Pass Assembler 🦆  
 *Python · Logisim-Evolution · Partner project*
 
-My partner and I designed a custom **16-bit CPU**, including its instruction set, datapath, control unit, register file, and ALU. I wrote a two-pass Python assembler to resolve labels and forward branches. Working through how to handle a branch to a label the assembler hadn't reached yet was a particularly good puzzle.
+My partner and I designed a custom 16-bit CPU, including its instruction set, datapath, control unit, register file, and ALU. I wrote a two-pass Python assembler to resolve labels and forward branches. Working through how to handle a branch to a label the assembler hadn't reached yet was a particularly good puzzle.
 
-### 🛠️ What I work with
+<details>
+<summary>tools & languages</summary>
 
-- **Languages:** Python, JavaScript, Java, HTML/CSS, Bash
-- **AI & ML:** MCP, tool-using agents, prompt/context engineering, LLM evaluation, Scikit-learn, TensorFlow/Keras, Hugging Face Transformers, NLTK, TextBlob
-- **Data:** Pandas, NumPy, Matplotlib, Seaborn
-- **Developer tools & systems:** Electron, Node.js, Phaser, Git, GitHub, GitLab CI/CD, Jupyter, Logisim-Evolution
+Python, JavaScript, Java, HTML/CSS, Bash. For developer tools, I've worked with Electron, Node.js, Phaser, Git, GitHub, GitLab CI/CD, and Logisim-Evolution.
 
-### 🎓 The school part
+My AI/ML work includes MCP, tool-using agents, prompt and context engineering, LLM evaluation, Scikit-learn, TensorFlow/Keras, Hugging Face Transformers, NLTK, and TextBlob. I use Pandas, NumPy, Matplotlib, Seaborn, and Jupyter for data work.
 
-- **B.S. Computer Science, Stevens Institute of Technology** · Expected **May 2028**
-- Pinnacle Scholars Honors Program · Dean's List · Upsilon Pi Epsilon
-- **Machine Learning Foundations**, Cornell University via eCornell · July 2025
-- **Break Through Tech AI Program**, Certificate of Completion · May 2026
+</details>
 
-### 💗 Say hi!
+### at stevens
 
-I'm also Phi Sigma Sigma's fundraising chair, where I organized a campaign that raised **$1,000+** for community programming. I like having a reason to bring people together and something to work toward.
+B.S. Computer Science, graduating May 2028. I'm part of the Pinnacle Scholars Honors Program and Upsilon Pi Epsilon, and I've been on the Dean's List.
+
+I also completed Machine Learning Foundations through Cornell/eCornell in July 2025 and the Break Through Tech AI Program in May 2026.
+
+### say hi
+
+I'm also Phi Sigma Sigma's fundraising chair, where I organized a campaign that raised $1,000+ for community programming. I like having a reason to bring people together and something to work toward.
 
 I'd love to meet people who get excited about what they're making. Tell me about your project, something you're learning, or a movie you think I need to see. I'm happy to talk about any of it.
 
-[Let's connect on LinkedIn](https://www.linkedin.com/in/liri-doron) · [Say hi by email](mailto:liridoron@gmail.com) · [My playlists](https://music.apple.com/profile/lirid0ron)
+[linkedin](https://www.linkedin.com/in/liri-doron) / [email](mailto:liridoron@gmail.com) / [playlists](https://music.apple.com/profile/lirid0ron)
