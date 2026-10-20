@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/lirid0ron/lirid0ron/dc8a5c70a79f0bcbedefd9510b0a27d0df7d0018/assets/header.svg" alt="Liri Doron, with strawberries, lilies, tulips, and orchids on yellow gingham" width="100%">
+<img src="assets/header-painted.png" alt="Liri Doron in burgundy script on sunflower yellow, framed by painted strawberries, lilies, tulips, and orchids" width="100%">
 <p><i>computer science @ stevens '28</i></p>
 
 <a href="https://www.linkedin.com/in/liri-doron"><img src="assets/linkedin.svg" alt="LinkedIn" width="132" height="38"></a> <a href="mailto:liridoron@gmail.com"><img src="assets/email.svg" alt="Say hi by email" width="132" height="38"></a> <a href="https://music.apple.com/profile/lirid0ron"><img src="assets/playlists.svg" alt="My playlists" width="132" height="38"></a>
